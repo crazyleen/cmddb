@@ -17,8 +17,7 @@ cli commands implement
 * log
 
 ```
-heavey@heavey-ThinkPad-T420:~/workspace/cmddb$ ./cmddb 
-input-module (Oct  3 2013-08:55:00)- an example shows you how to use input module with readline
+cmddb (Oct  3 2013-09:11:05)- an example shows you how to make cli commands
 Copyright (C) 2012-2013 ruisheng <ruishengleen@gmail.com>
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.

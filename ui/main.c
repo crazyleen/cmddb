@@ -9,7 +9,7 @@
 #include "reader.h"
 
 static const char *version_text =
-"input-module ("__DATE__ "-" __TIME__")- an example shows you how to use input module with readline\n"
+"cmddb ("__DATE__ "-" __TIME__")- an example shows you how to make cli commands\n"
 "Copyright (C) 2012-2013 ruisheng <ruishengleen@gmail.com>\n"
 "This is free software; see the source for copying conditions.  There is NO\n"
 "warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR "

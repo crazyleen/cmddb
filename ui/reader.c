@@ -27,7 +27,7 @@ static int do_command(char *arg, int interactive)
 	if (!strcasecmp(arg, "exit"))
 		reader_exit();
 
-	printf("%s:%d: (%s) %d\n", __FUNCTION__, __LINE__, arg, interactive);
+	//printf("%s:%d: (%s) %d\n", __FUNCTION__, __LINE__, arg, interactive);
 
 	const char *cmd_text;
 	int len = strlen(arg);
